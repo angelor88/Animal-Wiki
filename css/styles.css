@@ -1,0 +1,17 @@
+#turtle {
+  display: none;
+}
+#snake {
+  display: none;
+}
+#insects {
+  display: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  border: 12px solid #A2D7E8;
+}
